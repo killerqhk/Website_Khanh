@@ -1,7 +1,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Khanh Quach
 
 # Your name to show in the footer
 author: Khanh Quach 
@@ -34,27 +34,27 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  email: "khq@gmail.com"
+  facebook: https://www.facebook.com/thesilentcat
+  github: killerqhk
+  twitter: None
+#  reddit: killerqhk
+#  linkedin: None
+#  xing: None
+#  stackoverflow: None
+#  snapchat: None
+#  instagram: None
+#  youtube: None
+#  spotify: None
+#  telephone: None
+#  steam: None
+#  twitch: None
+#  yelp: None
+#  telegram: None
+#  calendly: None
+#  mastodon: None
+#  ORCID: None
+#  google-scholar: None
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
